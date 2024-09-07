@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'SaiyanSans';
+    src: url('/fonts/Saiyan-Sans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'SaiyanSans';
+    src: url('/fonts/Saiyan-Sans Left Oblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: oblique;
+  }
+  
+  @font-face {
+    font-family: 'SaiyanSans';
+    src: url('/fonts/Saiyan-Sans Right Oblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: oblique;
+  }
+  
